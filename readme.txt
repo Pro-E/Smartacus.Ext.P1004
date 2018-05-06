@@ -1,31 +1,29 @@
-## Smartacus.Ext.P1004
+﻿This is Multipurpose I2C IO Extension (P1004) Module Arduino Library
 
-Multipurpose I2C IO Extension (P1004) Module Arduino Library
-
-## Overview
+-Overview-
 
 P1004 Module is member Smartacus Extensions product family. 
 
 The module is a I2C controlled, dynamic addressed, four port digital I/O extender which provides user selectable functions. 
 
-## Features
+-Features-
 
-* +3.3V supply operation 
-* 2 Counter Units 
-* 4 Digital I/O Port , configurable to 
+• +3.3V supply operation 
+• 2 Counter Units 
+• 4 Digital I/O Port , configurable to 
 	◦ General Purpose I/O 
 	◦ Pulse Width Modulation 
 	◦ Output Toggle 
 	◦ Extertnal Clock Source for Counter Units (only 2 port supports this function) 
-* I2C communication as a host interface
+• I2C communication as a host interface
 
-## Applications
+-Applications-
 
-* DIY, Maker Projects 
-* I/O Extender for endustrial projects 
-* Motor Control, LED Control
+• DIY, Maker Projects 
+• I/O Extender for endustrial projects 
+• Motor Control, LED Control
 
-## Team
+-Team-
 
 Selcuk Iyikalender - Turkay Kaynak
 
