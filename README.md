@@ -1,5 +1,7 @@
 ## Smartacus.Ext.P1004
 
+![P1004 Image](http://proeglobal.com/wp-content/uploads/2018/05/SmEx1004.I01.png)
+
 Multipurpose I2C IO Extension (P1004) Module Arduino Library
 
 ## Overview
