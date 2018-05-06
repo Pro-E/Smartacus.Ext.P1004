@@ -2,7 +2,7 @@
 
 -Overview-
 
-P1004 Module is member Smartacus Extensions product family. 
+P1004 Module is member of Smartacus Extensions product family. 
 
 The module is a I2C controlled, dynamic addressed, four port digital I/O extender which provides user selectable functions. 
 
