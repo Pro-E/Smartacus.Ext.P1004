@@ -15,10 +15,10 @@ The module is a I2C controlled, dynamic addressed, four port digital I/O extende
 * +3.3V supply operation 
 * 2 Counter Units 
 * 4 Digital I/O Port , configurable to 
-** General Purpose I/O 
-** Pulse Width Modulation 
-** Output Toggle 
-** Extertnal Clock Source for Counter Units (only 2 port supports this function) 
+	- General Purpose I/O 
+	- Pulse Width Modulation 
+	- Output Toggle 
+	- Extertnal Clock Source for Counter Units (only 2 port supports this function) 
 * I2C communication as a host interface
 
 ## Applications

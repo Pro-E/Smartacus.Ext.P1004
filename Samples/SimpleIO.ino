@@ -1,12 +1,13 @@
-/***************************************************
-Pro-E / Smartacus Finger - P1004 Main Class
-Smartacus: http://smartacus.proeglobal.com
-Extension(s): http://smartacus.proeglobal.com/ext
+/*
+Name:	SimpleIO.ino
 
-Parmak sample: SimpleIO
+Module: P1004 (https://github.com/Pro-E/Smartacus.Ext.P1004)
+Sample: Simple Digital Input Output
 
-Selcuk Iyikalender - Turkay Kaynak
-***************************************************/
+Description:
+Yes, in many scenarios, we dont need any extension.
+But, if all outputs filled and ony option over i2c bus? We can use multiple P1004's :)
+*/
 
 
 #include <SmEx1004Search.h>
